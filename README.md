@@ -40,7 +40,7 @@ The API provides:
 
 ## 🌐 Live Demo
 
-[View Weather Website](YOUR_LIVE_DEMO_URL)
+[View Weather Website](https://minshida-latheef.github.io/check-weather/)
 
 ## 🎯 Learning Outcomes
 
