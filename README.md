@@ -38,7 +38,6 @@ The API provides:
 - Wind speed
 - Weather descriptions
 
-## 🌐 Live Demo
 
 [View Weather Website](https://minshida-latheef.github.io/check-weather/)
 
